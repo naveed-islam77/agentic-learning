@@ -1,0 +1,6 @@
+I’m a skilled web developer with experience in both front-end and
+back-end technologies. I have expertise in HTML, CSS, JavaScript,
+React.js, Next.js, Node.js, Express.js, MongoDB, and MySQL,
+and I've used tools like Mongoose and Prisma to build efficient
+web applications. Additionally, I have knowledge in WebSockets,
+Supabase.
